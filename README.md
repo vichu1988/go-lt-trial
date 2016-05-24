@@ -1,2 +1,8 @@
 # go-lt-trial
-Trial repo on go
+
+## Need
+Learning go is of the need here
+
+##What?
+
+This has some early trials of how i crashed and burned with go.
